@@ -7,5 +7,5 @@
 
 <CheckBox android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/itemcheck_wifi"></CheckBox>
 <CheckBox android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/itemcheck_3g"></CheckBox>
-<TextView android:layout_height="wrap_content" android:id="@+id/itemtext" android:text="uid:packages" android:layout_width="fill_parent"></TextView>
+<TextView android:layout_height="wrap_content" android:id="@+id/itemtext" android:text="@string/empty" android:layout_width="fill_parent"></TextView>
 </LinearLayout>
